@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+demo.sh
+sample.pcap
+SCRIPT.md
+capture.log
